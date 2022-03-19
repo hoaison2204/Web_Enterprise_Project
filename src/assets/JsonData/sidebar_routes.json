@@ -1,0 +1,17 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "New ideas",
+        "route": "/new_ideas",
+        "icon": "bx bx-news"
+    },
+    {
+        "display_name": "Manage accounts",
+        "route": "/manage_accounts",
+        "icon": "bx bxs-user-account"
+    }
+]

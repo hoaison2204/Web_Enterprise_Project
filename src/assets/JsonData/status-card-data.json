@@ -1,0 +1,12 @@
+[
+    {
+        "icon": "bx bxs-user-account",
+        "count": "8",
+        "title": "Total accounts"
+    },
+    {
+        "icon": "bx bx-news",
+        "count": "25",
+        "title": "Total ideas"
+    }
+]
