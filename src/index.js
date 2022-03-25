@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
-
+import app from './app';
 import './assets/boxicons/css/boxicons.min.css';
 import './assets/css/grid.css';
 import './assets/css/index.css';
 import Layout from './components/layout/Layout';
+
 
 document.title = 'Hello World!';
 
